@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebepoapa.github.io/gXZ/sitemap_index.txt
+Sitemap: https://ebepoapa.github.io/oYh/sitemap_index.txt
+Sitemap: https://ebepoapa.github.io/pTh/sitemap_index.txt
+Sitemap: https://ebepoapa.github.io/rSf/sitemap_index.txt
